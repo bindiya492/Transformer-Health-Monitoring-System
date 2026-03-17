@@ -1,2 +1,9 @@
-# Transformer-Health-Monitoring-System
-Transformer Health Monitoring System monitors temperature, voltage, and current in real time using sensors and a microcontroller (Arduino/ESP32). It detects faults and abnormal conditions and uses Blynk IoT for visualization and alerts, improving reliability, safety, and efficiency of power systems.
+# Transformer Health Monitoring System
+
+This project monitors temperature, voltage, and current of a transformer in real time using sensors and Arduino/ESP32. It detects faults and sends alerts using Blynk IoT.
+
+## Technologies Used
+- Arduino / ESP32
+- Sensors
+- Embedded C++
+- Blynk IoT
